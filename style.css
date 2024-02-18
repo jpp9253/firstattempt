@@ -15,14 +15,14 @@ body
     text-align: center;
     font-size: 200px;
     font-family: "Rochester", cursive;
-    padding-top: 15vh;
+    padding-top: 30vh;
     color: white;
     -webkit-text-stroke: 0.5px navy;
 }
 
 .care
 {
-    padding-top: 10vh;
+    padding-top: 40vh;
     text-align: center;
     color: white;
     font-family: "Protest Riot", sans-serif;
@@ -33,7 +33,7 @@ body
 .short ul {
     display: grid;
     grid-template-columns: repeat(3, 1fr); /* Create 3 equal columns */
-    grid-gap: 10px; /* Optional: Add gap between images */
+    grid-gap: 7px; /* Optional: Add gap between images */
 }
 
 .short .image {
