@@ -13,7 +13,7 @@ body
 .heading
 {
     text-align: center;
-    font-size: 250px;
+    font-size: 230px;
     font-family: "Rochester", cursive;
     padding-top: 15vh;
     color: white;
@@ -26,7 +26,7 @@ body
     text-align: center;
     color: white;
     font-family: "Protest Riot", sans-serif;
-    font-size: 130px;
+    font-size: 80px;
     padding-bottom: -10vh;
 }
 
